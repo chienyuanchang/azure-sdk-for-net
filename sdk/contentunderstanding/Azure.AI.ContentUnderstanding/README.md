@@ -238,7 +238,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct][code_of_con
 
 <!-- LINKS -->
 [source_code]: https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/contentunderstanding/Azure.AI.ContentUnderstanding/src
-
+[api_reference]: https://azure.github.io/azure-sdk-for-net
 [product_docs]: https://learn.microsoft.com/azure/ai-services/content-understanding/
 [nuget]: https://www.nuget.org/
 [azure_subscription]: https://azure.microsoft.com/free/dotnet/
